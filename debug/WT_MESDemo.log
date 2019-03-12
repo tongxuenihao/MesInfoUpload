@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  WT_MES.cpp
+d:\mes_demo_for_customer_development\wt_mes.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+d:\mes_demo_for_customer_development\wt_mes.cpp(71): warning C4101: “m_Mask_percent”: 未引用的局部变量
+d:\mes_demo_for_customer_development\wt_mes.cpp(68): warning C4101: “m_EVM_dB”: 未引用的局部变量
+d:\mes_demo_for_customer_development\wt_mes.cpp(69): warning C4101: “m_Pow_dBm”: 未引用的局部变量
+    正在创建库 D:\MES_DEMO_For_Customer_Development\Debug\WT_MESDemo.lib 和对象 D:\MES_DEMO_For_Customer_Development\Debug\WT_MESDemo.exp
+  WT_MESDemo.vcxproj -> D:\MES_DEMO_For_Customer_Development\Debug\WT_MESDemo.dll
+  WT_MESDemo.vcxproj -> D:\MES_DEMO_For_Customer_Development\Debug\WT_MESDemo.pdb (Full PDB)

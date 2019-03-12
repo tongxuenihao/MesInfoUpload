@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  WT_MES.cpp
+WT_MES.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+WT_MES.cpp(99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+WT_MES.cpp(86): warning C4101: “m_Mask_percent”: 未引用的局部变量
+WT_MES.cpp(83): warning C4101: “m_EVM_dB”: 未引用的局部变量
+WT_MES.cpp(84): warning C4101: “m_Pow_dBm”: 未引用的局部变量
+WT_MES.cpp(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+    正在创建库 D:\MES_DEMO_For_Customer_Development\Release\WT_MESDemo.lib 和对象 D:\MES_DEMO_For_Customer_Development\Release\WT_MESDemo.exp
+  正在生成代码
+  All 832 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WT_MESDemo.vcxproj -> D:\MES_DEMO_For_Customer_Development\Release\WT_MESDemo.dll
+  WT_MESDemo.vcxproj -> D:\MES_DEMO_For_Customer_Development\Release\WT_MESDemo.pdb (Full PDB)

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WT_MESDemo", "WT_MESDemo.vcxproj", "{9F6BB0AF-4DD4-41DC-9235-ABFDBF17982F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6BB0AF-4DD4-41DC-9235-ABFDBF17982F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F6BB0AF-4DD4-41DC-9235-ABFDBF17982F}.Debug|Win32.Build.0 = Debug|Win32
+		{9F6BB0AF-4DD4-41DC-9235-ABFDBF17982F}.Release|Win32.ActiveCfg = Release|Win32
+		{9F6BB0AF-4DD4-41DC-9235-ABFDBF17982F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
